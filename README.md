@@ -58,6 +58,6 @@
 
 ```javascript
   validator.validateResult()
-  //It will return validate current page's form validated result
+  //It will validate current page's and return result
   //return bool as TRUE or FALSE
 ```
